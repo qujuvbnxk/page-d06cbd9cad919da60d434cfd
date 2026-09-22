@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6251f7076b8fffe0a507b742",
+  "owner": "qujuvbnxk",
+  "repo": "page-d06cbd9cad919da60d434cfd",
+  "title": "逸",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d06cbd9cad919da60d434cfd",
+      "a": "逸",
+      "b": "稳定全球clash加速器",
+      "entity": "逸",
+      "brand": "逸",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "017fefe0b52c77d145ca182b4a3e59cb6022b2460ca9f38d8e6f47503a81467b",
+      "content": {
+        "primary_entity": "逸",
+        "keyword1": "逸",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型挑选客户端，再导入订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选定套餐后按客户端文档完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始连接",
+          "AI_DESCRIPTION": "，逸提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，支持 Clash 等常见客户端按订阅配置接入，适合按个人或团队规模选择。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度做选择。",
+          "AI_FEATURES_TITLE": "选择逸的三个方面",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合轻度使用；旗舰版 300GB、5 台设备，覆盖较多终端。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、支持 20 台设备在线，并提供 VIP 专属高带宽节点，适合多人共享。",
+          "AI_FEATURE_TEXT_3": "三档套餐均可按年付，年付价格分别约为 ¥150、¥350、¥850，长期使用更清晰。",
+          "AI_FEATURE_TITLE_1": "套餐按需求划分",
+          "AI_FEATURE_TITLE_2": "设备数量可选择",
+          "AI_FEATURE_TITLE_3": "周期可按年计算",
+          "AI_GUIDE_INTRO": "先确定使用人数与终端，再对照客户端文档完成订阅。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_HERO_INTRO": "逸提供多档订阅，面向需要稳定连接、按设备数量与流量灵活选择的人群，可在常见客户端中按订阅方式接入。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "支持 Clash 等客户端订阅接入",
+          "AI_HIGHLIGHT_3": "年付方案价格更清晰",
+          "AI_PLANS_INTRO": "基础版 100GB / 3 台设备，旗舰版 300GB / 5 台设备，团队版 1000GB / 20 台设备，按使用规模对照即可。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据使用人数与终端数量，在基础版、旗舰版、团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与流媒体或游戏加速说明，确认适配要求。",
+          "AI_STEP_TEXT_3": "按所选客户端文档导入订阅配置，完成后即可在对应设备上使用。",
+          "AI_STEP_TITLE_1": "选择订阅档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "逸 · 多档订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备并带 IPLC 专线；团队版每月 1000GB、20 台设备。按设备数和流量需求选即可。",
+          "AI_FAQ_ANSWER_2": "基础版和旗舰版适合个人或少设备用户；团队版面向多设备场景，支持 20 台设备同时在线并含企业定制路由选项。",
+          "AI_FAQ_ANSWER_3": "在对应客户端的订阅管理界面粘贴订阅地址或导入订阅文件，保存后更新节点列表即可。不同客户端步骤略有差异，可参照其文档操作。",
+          "AI_FAQ_ANSWER_4": "按年付比按月付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，分别折算每月约 ¥12.5、¥29、¥70.8。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化和 7x24 优先工单支持；团队版提供 VIP 专属高带宽节点与专属客户经理服务，可按使用场景区分。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三个套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "个人用户和团队用户怎么选套餐？",
+          "AI_FAQ_QUESTION_3": "订阅地址如何在客户端里导入？",
+          "AI_FAQ_QUESTION_4": "按月付和按年付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版多的权益用在哪里？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ickes.cn",
+    "host": "ickes.cn"
+  },
+  "file_hashes": {
+    "index.html": "6a2dddb66d33ed5ad5a07261e10af9f92283fce9306da8ec373b8b751ef8becd",
+    "sitemap.xml": "14240bb0ae73c5a9967087546fa4b01242eb7a918fa64f251df8a7a11ba00fda",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eb8d5f1eca41e464deabbe8be9b598624b0dd326a879501e9d1cdac8f44b6d41",
+    "robots.txt": "65d0d1923fb185fa3d02e8ea41641fad25d89e56ff50776293a6097e4a99a232",
+    "6421ef6c4abf4301ff1a16cc851e20c2.txt": "34028a805cd80228c8fdaf6714e4b453f61fa3b7ea2150f7ab42444056bf5764"
+  },
+  "revision": "833e08468270c62783e122c59597d762a0cf48c01393e4cb2e57776b37a44c6a"
+}
